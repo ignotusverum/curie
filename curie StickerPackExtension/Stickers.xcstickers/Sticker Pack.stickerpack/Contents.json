@@ -1,0 +1,65 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Marie Curie.sticker"
+    },
+    {
+      "filename" : "Фраза 1.sticker"
+    },
+    {
+      "filename" : "U look radiant.sticker"
+    },
+    {
+      "filename" : "Шапочка.sticker"
+    },
+    {
+      "filename" : "Have a radiant year.sticker"
+    },
+    {
+      "filename" : "Фраза 3.sticker"
+    },
+    {
+      "filename" : "Nobody makes me glow.sticker"
+    },
+    {
+      "filename" : "Ёлочки.sticker"
+    },
+    {
+      "filename" : "Фраза 4.sticker"
+    },
+    {
+      "filename" : "Кюри + пробирки.sticker"
+    },
+    {
+      "filename" : "Have a radiant year + Chr tree.sticker"
+    },
+    {
+      "filename" : "Фраза 5.sticker"
+    },
+    {
+      "filename" : "We've got great chemistry.sticker"
+    },
+    {
+      "filename" : "Маленькая пробирка.sticker"
+    },
+    {
+      "filename" : "Большая пробирка.sticker"
+    },
+    {
+      "filename" : "Merry Christmas.sticker"
+    },
+    {
+      "filename" : "Две пробирки.sticker"
+    },
+    {
+      "filename" : "Фраза 2.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
